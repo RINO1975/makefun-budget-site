@@ -1,0 +1,8 @@
+/out/
+/out2/
+# Keep browser scratch data out of future source snapshots.
+# Final JPEG images in screenshots/ are part of the deliverable.
+/.chrome-*/
+/verification/
+/*.log
+/server.pid

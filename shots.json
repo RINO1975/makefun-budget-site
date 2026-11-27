@@ -1,0 +1,6 @@
+[
+  { "path": "?shot=cover", "route": "#/", "file": "1-cover.jpg", "viewport": { "width": 1280, "height": 800 } },
+  { "path": "?shot=anggaran", "route": "#/anggaran", "file": "2-anggaran.jpg", "viewport": { "width": 1280, "height": 800 } },
+  { "path": "?shot=transaksi", "route": "#/transaksi", "file": "3-transaksi.jpg", "viewport": { "width": 1280, "height": 800 } },
+  { "path": "?shot=phone", "route": "#/", "file": "4-phone.jpg", "viewport": { "width": 390, "height": 844 } }
+]
